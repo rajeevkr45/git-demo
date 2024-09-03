@@ -1,2 +1,3 @@
 # git-demo
-This is my first git-hub project.
+#created by Rajeev Ranjan Kumar
+This is my first project.
